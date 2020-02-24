@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "api.mealinfo.mealNameLength",
+    "type": "java.lang.Integer",
+    "description": "A description for 'api.mealinfo.mealNameLength'"
+  },
+  {
+    "name": "api.mealinfo.calorieLength",
+    "type": "java.lang.Integer",
+    "description": "A description for 'api.mealinfo.calorieLength'"
+  }
+]}
